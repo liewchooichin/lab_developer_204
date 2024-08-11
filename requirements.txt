@@ -4,3 +4,4 @@ azure-storage-queue
 azure-storage-blob
 azure-cosmos
 azure-functions
+msal
