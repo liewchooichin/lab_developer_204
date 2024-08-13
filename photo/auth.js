@@ -1,5 +1,6 @@
 //MSAL configuration
 const msalConfig = {
+    // using account otter
     auth: {
         clientId: 'a8b2111e-28e8-46db-bf14-c09d0c5a35c6',
         // comment out if you use a multi-tenant AAD app
