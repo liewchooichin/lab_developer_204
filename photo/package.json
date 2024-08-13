@@ -1,0 +1,9 @@
+{
+    "name": "msgraph-quickstart",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "npx http-server -c-1 -a localhost -o"
+    },
+    "keywords": [],
+    "author": ""
+}
